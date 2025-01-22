@@ -38,8 +38,8 @@ Le Calculateur de Budget est une application web simple qui permet de gérer et 
 
 ## Dépendances
 
-- <a href="https://getbootstrap.com/" target="_blank">Bootstrap 5.2.0</a>
-- <a href="https://fonts.google.com/specimen/Inconsolata" target="_blank">Google Fonts - Inconsolata</a>
+- [Bootstrap 5.2.0](https://getbootstrap.com/)
+- [Google Fonts - Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 
 ## Utilisation
 
@@ -49,7 +49,7 @@ Le Calculateur de Budget est une application web simple qui permet de gérer et 
 
 ## Auteur
 
-- <a href="https://micheldufour.fr" target="_blank">Michel Dufour - Développeur Web</a>
+- [Michel Dufour - Développeur Web](https://micheldufour.fr)
 
 ## Licence
 
