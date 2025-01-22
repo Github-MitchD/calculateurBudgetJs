@@ -39,7 +39,7 @@ Le Calculateur de Budget est une application web simple qui permet de gérer et 
 ## Dépendances
 
 - [Bootstrap 5.2.0](https://getbootstrap.com/)
-- [Google Fonts - Indie Flower](https://fonts.google.com/specimen/Indie+Flower)
+- [Google Fonts - Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 
 ## Utilisation
 
